@@ -1,0 +1,8 @@
+{
+	"enemySpeedMax" : 13,
+	"enemySpeedMin" : 11,
+	"killsRequired" : 15,
+	"totalAsteroids" : 5,
+	"levelNumber" : 4,
+	"isCompleted" : false,
+}
